@@ -16,7 +16,7 @@ namespace aspnet_core_dotnet_core.Pages
         public string DoTest()
         {
             return "Index";
+            <div class="description line-1"> GitHub Workflow has been successfully updated</div>
         }
-        <div class="description line-1"> GitHub Workflow has been successfully updated</div>
     }
 }
